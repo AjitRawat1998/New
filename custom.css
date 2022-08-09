@@ -1,0 +1,499 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+span {
+    color: #becd32;
+}
+
+.portfolio {
+    font-size: 30px;
+}
+
+.navulmargin {
+    margin-left: auto !important;
+}
+
+.active {
+    font-size: 20px;
+
+}
+
+.active:hover {
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+
+.navpadding {
+    padding: 47px;
+    background-color: black;
+    color: white;
+}
+
+.naviconalink a {
+    text-decoration: none;
+}
+
+.naviconalink i {
+    font-size: 25px;
+}
+
+#whatsapp {
+    color: #25D366;
+}
+
+#insta {
+    color: rgb(248, 35, 248);
+}
+
+#fb {
+    color: #1884ff;
+}
+
+
+.thoughtbgcolour {
+    background-color: #becd32;
+
+    /* color: black; */
+}
+
+.divthoughtp {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.thoughtcol {
+    margin-top: 31px;
+    margin-left: 22px;
+    font-size: 32px;
+}
+
+.thoughtcol1 {
+    margin-left: 20px;
+    font-size: 26px;
+    margin-bottom: 13px;
+}
+
+.hip {
+    font-size: 33px;
+    color: white;
+}
+
+.Web {
+    font-size: 3em;
+    color: #becd32;
+}
+
+.Iam {
+    font-size: 29px;
+    color: white;
+}
+
+
+/* .btnresume {
+    color: white;
+    background-color: #becd32;
+    font-size: 26px;
+    margin-top: 22px;
+    border-radius: 10px;
+} */
+
+
+.btnresume {
+    color: white;
+    background-color: #becd32;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+    margin-top: 22px;
+    font-size: 26px;
+}
+
+.btn:hover {
+    background-color: transparent;
+    border: 2px solid #becd32;
+    cursor: pointer;
+}
+
+.divtake {
+    background-color: #becd32;
+
+}
+
+.Take {
+    text-align: center;
+    font-size: 43px;
+
+}
+
+.These {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+
+.divtakelook {
+    padding: 48px;
+    color: black;
+}
+
+.cardcolour {
+    background-color: black !important;
+    height: 222px;
+    border-radius: 30px;
+}
+
+.divcard1 {
+    padding: 17px;
+}
+
+.card1 {
+    font-size: 50px;
+    color: #becd32;
+    /* align-items: center !important; */
+
+}
+
+.cardcolour:hover {
+    transition: 1s;
+    transform: scale(1.1);
+
+}
+
+.cardparg {
+    padding: 19px;
+    color: #becd32;
+    font-size: 26px;
+}
+
+.work {
+    text-align: center;
+    font-size: 26px;
+    color: white;
+}
+
+.Projects {
+
+    text-align: center;
+    font-size: 54px;
+    color: #becd32;
+}
+
+.divprojects {
+    padding: 38px;
+}
+
+.viewproject {
+    background-color: #becd32;
+    border-radius: 50px;
+    height: 300px;
+}
+
+.viewproject:hover {
+    transition: 1s;
+    transform: scale(0.9);
+
+}
+
+.portfoliop {
+    font-size: 30px;
+}
+
+.viewbtn {
+    width: fit-content;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 10px;
+    border-color: black;
+    background-color: #9b9b10;
+}
+
+.viewprojectp {
+    font-size: 15px;
+
+}
+
+.viewprojectalink {
+    color: black;
+
+}
+
+.viewprojectalink:hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+
+.divabout {
+    margin-top: 67px;
+
+    background-color: black;
+}
+
+.aboutp1 {
+    text-align: center;
+    font-size: 43px;
+    color: #becd32;
+}
+
+
+.aboutp2 {
+    text-align: center;
+    font-size: 31px;
+    color: white;
+
+}
+
+.divfooter {
+
+    background-color: black;
+}
+
+.name {
+    padding-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.explore a {
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
+
+.exploreh {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.footerabouth {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.footerabout a {
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+.footerexplpre {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#alink {
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+
+.footerbtn {
+    background-color: #9b9b10;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.footerrow {
+    margin-top: 53px;
+}
+
+.ficon {
+    text-align: center !important;
+}
+
+
+#balink {
+    text-decoration: none;
+    color: white;
+    border-radius: 30px;
+}
+
+.colourfooter {
+    background: linear-gradient(45deg, green, blue, rgb(255, 0, 255), red, purple);
+    /* background-image: linear-gradient(red,yellow) !important; */
+    height: 10px;
+}
+
+.abouticon {
+    font-size: 30px;
+    color: white;
+}
+
+@media only screen and (max-width:1528px) and (min-width:200px) {
+    .Web {
+        width: 100%;
+        font-size: 45px;
+
+    }
+
+}
+
+@media only screen and (max-width:763px) {
+    .cardcolour {
+
+        margin: 15px;
+    }
+}
+
+@media only screen and (max-width:1050px) and (min-width:750px) {
+    .portfoliop {
+        width: 100%;
+        font-size: 26px;
+        /* background-color: #8a3ab9; */
+    }
+
+    .viewprojectp {
+        width: 100%;
+        font-size: 15px;
+        /* background-color: #8a3ab9; */
+    }
+
+
+}
+
+
+
+
+
+/* animation cube */
+.cube_container {
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    perspective: 800px;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 3rem auto;
+}
+
+:root {
+    --cubeTheme: #becd32;
+    /* --cubeTheme: #f6f7fa; */
+}
+
+.cube_shape {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: translateZ(-150px) rotateX(90deg);
+    transition: all 3s;
+    animation: rotate 50s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate3d(0, 0, 0, 0);
+    }
+
+    100% {
+        transform: rotate3d(0, 1, 0, 360deg);
+    }
+}
+
+.face {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    opacity: 0.9;
+    /* border: 1px solid rgb(110, 110, 110); */
+    border: 1px solid #02203c;
+    /* box-shadow: inset 0 0 40px 5px rgb(110, 110, 110); */
+    box-shadow: inset 0 0 100px #02203c;
+}
+
+.front {
+    background: var(--cubeTheme);
+    background-image: url("react.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: rotateY(0deg) translateZ(150px);
+}
+
+.back {
+    background: var(--cubeTheme);
+    background-image: url("python.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: rotateY(180deg) translateZ(150px);
+}
+
+.right {
+    background: var(--cubeTheme);
+    background-image: url("node.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: rotateY(90deg) translateZ(150px);
+}
+
+.left {
+    background: var(--cubeTheme);
+    background-image: url("mongo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: rotateY(-90deg) translateZ(150px);
+}
+
+.top {
+    background: var(--cubeTheme);
+    transform: rotateX(90deg) translateZ(150px);
+}
+
+.bottom {
+    background: var(--cubeTheme);
+    transform: rotateX(-90deg) translateZ(150px);
+    box-shadow: 20px 0px 100px #02203c;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .cube_container,
+    .cube_shape,
+    .face {
+        width: 240px;
+        height: 240px;
+    }
+
+    .cube_shape {
+        transform: translateZ(-120px) rotateX(30deg);
+    }
+
+    .front {
+        transform: rotateY(0deg) translateZ(120px);
+    }
+
+    .right {
+        transform: rotateY(90deg) translateZ(120px);
+    }
+
+    .back {
+        transform: rotateY(180deg) translateZ(120px);
+    }
+
+    .left {
+        transform: rotateY(-90deg) translateZ(120px);
+    }
+
+    .top {
+        transform: rotateX(90deg) translateZ(120px);
+    }
+
+    .bottom {
+        transform: rotateX(-90deg) translateZ(120px);
+    }
+}
